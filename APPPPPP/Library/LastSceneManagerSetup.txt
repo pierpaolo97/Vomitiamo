@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Bottle ninja.unity
+- path: Assets/Scenes/Hockey.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

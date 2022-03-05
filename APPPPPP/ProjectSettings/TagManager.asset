@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Lame
+  - PlayerDownGoal
+  - PlayerUpGoal
   layers:
   - Default
   - TransparentFX

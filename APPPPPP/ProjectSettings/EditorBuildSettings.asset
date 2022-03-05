@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0ad036e0cdf1b0a4791ad9932b6d9b55
+  - enabled: 1
+    path: Assets/Scenes/Hockey.unity
+    guid: 708520c1fc4e8a5408d53f5c92947b5d
+  - enabled: 1
+    path: Assets/Scenes/Bottle ninja.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
