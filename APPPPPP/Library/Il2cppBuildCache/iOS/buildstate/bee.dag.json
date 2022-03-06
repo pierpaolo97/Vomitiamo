@@ -13,9 +13,9 @@
       "DebugActionIndex": 0
     },
     {
-      "Annotation": "IL2CPP_CodeGen /Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_uimf.traceevents",
-      "Action": "\"/Applications/Unity/Hub/Editor/2021.2.11f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp\" --convert-to-cpp --directory=\"/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed\" --data-folder=\"/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Data\" --generatedcppdir=\"/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput\" --symbols-folder=\"/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols\" --additional-cpp=\"/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp\" --additional-cpp=\"/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp\" --emit-null-checks --enable-array-bounds-check --code-generation-option=EnableInlining --stats-output-dir=\"/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppStats\" --dotnetprofile=unityaot-macos --cachedirectory=\"/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS\" --profiler-report --profiler-output-file=\"/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_uimf.traceevents\"",
-      "ProfilerOutput": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_uimf.traceevents",
+      "Annotation": "IL2CPP_CodeGen /Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_2p04.traceevents",
+      "Action": "\"/Applications/Unity/Hub/Editor/2021.2.11f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp\" --convert-to-cpp --directory=\"/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed\" --data-folder=\"/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Data\" --generatedcppdir=\"/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput\" --symbols-folder=\"/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols\" --additional-cpp=\"/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp\" --additional-cpp=\"/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp\" --emit-null-checks --enable-array-bounds-check --code-generation-option=EnableInlining --stats-output-dir=\"/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppStats\" --dotnetprofile=unityaot-macos --cachedirectory=\"/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS\" --profiler-report --profiler-output-file=\"/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_2p04.traceevents\"",
+      "ProfilerOutput": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_2p04.traceevents",
       "Inputs": [
         "/Applications/Unity/Hub/Editor/2021.2.11f1/Unity.app/Contents/il2cpp/build/deploy/Microsoft.CSharp.dll",
         "/Applications/Unity/Hub/Editor/2021.2.11f1/Unity.app/Contents/il2cpp/build/deploy/System.Web.dll",
@@ -306,99 +306,102 @@
         "/Applications/Unity/Hub/Editor/2021.2.11f1/Unity.app/Contents/il2cpp/build/deploy/System.Threading.Channels.dll",
         "/Applications/Unity/Hub/Editor/2021.2.11f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Bee.BuildLogic.MacOSX.dll",
         "/Applications/Unity/Hub/Editor/2021.2.11f1/Unity.app/Contents/il2cpp/build/deploy/Unity.IL2CPP.Shell.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/ICallSummary.txt",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityICallRegistration.cpp",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/TypesInScenes.xml",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/System.Configuration.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/SerializedTypes.xml",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/Assembly-CSharp.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/mscorlib.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityLinkerToEditorData.json",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/Mono.Security.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/System.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UI.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/System.Xml.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/System.Core.dll",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.pdb",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp"
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/ICallSummary.txt",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityICallRegistration.cpp",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/TypesInScenes.xml",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/SerializedTypes.xml",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/Assembly-CSharp.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityLinkerToEditorData.json",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/System.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UI.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/MethodsToPreserve.xml",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.pdb",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp"
       ],
       "Outputs": [
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_uimf.traceevents",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_uimf.traceevents"
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_2p04.traceevents",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/artifacts/il2cpp_conv_2p04.traceevents"
       ],
       "TargetDirectories": [
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
-        "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols"
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
+        "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols"
       ],
       "OverwriteOutputs": false,
       "AllowUnexpectedOutput": true,
       "GlobSignatures": [
         {
-          "Path": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Path": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
           "Filter": "*.cpp",
           "Recurse": 1
         },
         {
-          "Path": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Path": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
           "Filter": "*.c",
           "Recurse": 1
         },
         {
-          "Path": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Path": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
           "Filter": "*.mm",
           "Recurse": 1
         },
         {
-          "Path": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
+          "Path": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
           "Filter": "*.m",
           "Recurse": 1
         },
         {
-          "Path": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
+          "Path": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
           "Recurse": 1
         }
       ],
@@ -1072,7 +1075,7 @@
       "File": "/Applications/Unity/Hub/Editor/2021.2.11f1/Unity.app/Contents/il2cpp/build/deploy/WindowsBase.dll"
     },
     {
-      "File": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/bee-inputdata.json"
+      "File": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/bee-inputdata.json"
     }
   ],
   "StatSignatures": [
@@ -1101,7 +1104,7 @@
       "File": "/Applications/Unity/Hub/Editor/2021.2.11f1/Unity.app/Contents/il2cpp/libil2cpptiny"
     },
     {
-      "File": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/bee-inputdata.json"
+      "File": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/bee-inputdata.json"
     }
   ],
   "GlobSignatures": [
@@ -1136,7 +1139,7 @@
       "Recurse": 1
     },
     {
-      "Path": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Temp/StagingArea/Data/Managed"
+      "Path": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Temp/StagingArea/Data/Managed"
     }
   ],
   "ContentDigestExtensions": [
@@ -1156,19 +1159,19 @@
     ".xml",
     ".txt"
   ],
-  "StructuredLogFileName": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/tundra.log.json",
-  "StateFileName": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state",
-  "StateFileNameTmp": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state.tmp",
-  "StateFileNameMapped": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state.map",
-  "ScanCacheFileName": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/tundra.scancache",
-  "ScanCacheFileNameTmp": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/tundra.scancache.tmp",
-  "DigestCacheFileName": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/tundra.digestcache",
-  "DigestCacheFileNameTmp": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/tundra.digestcache.tmp",
+  "StructuredLogFileName": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/tundra.log.json",
+  "StateFileName": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state",
+  "StateFileNameTmp": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/TundraBuildState.state.map",
+  "ScanCacheFileName": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/tundra.scancache",
+  "ScanCacheFileNameTmp": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/tundra.scancache.tmp",
+  "DigestCacheFileName": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/tundra.digestcache",
+  "DigestCacheFileNameTmp": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/tundra.digestcache.tmp",
   "EmitDataForBeeWhy": 1,
   "DirectoriesCausingImplicitDependencies": [
-    "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
-    "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
-    "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols"
+    "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Data",
+    "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput",
+    "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/il2cppOutput/Symbols"
   ],
         "NamedNodes": {
           "all_tundra_nodes": 0,
@@ -1179,7 +1182,7 @@
   ],
   "SharedResources": [],
   "Scanners": [],
-  "Identifier": "/Users/pierpaolomolino/Downloads/Unity/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/bee.dag.json",
+  "Identifier": "/Users/pierpaolomolino/Downloads/Vomitiamo/APPPPPP/Library/Il2cppBuildCache/iOS/buildstate/bee.dag.json",
   "BuildTitle": "il2cpp",
   "RelativePathToRoot": "."
 }

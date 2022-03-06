@@ -9,6 +9,7 @@ public class diskScript : MonoBehaviour
     public Rigidbody2D rb;
     public float maxSpeed;
     public AudioSource audioSource;
+    public ParticleSystem Impact;
 
     void Start()
     {
@@ -57,5 +58,28 @@ public class diskScript : MonoBehaviour
         else
             rb.position = new Vector2(0, 1);
 
+
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Pedine")
+        {
+            Impact.Play();
+            /*ContactPoint2D[] contacts = new ContactPoint2D[10];
+
+            // Get the contact points for this collision
+            int numContacts = collision.GetContacts(contacts);
+
+            // Iterate through each contact point
+            for (int i = 0; i < numContacts; i++)
+            {
+                Colpo = Instantiate(BumAnim, transform.position, transform.rotation);
+                Destroy(Colpo, 2f);
+            }*/
+        }
+
+    }
+
+
 }
