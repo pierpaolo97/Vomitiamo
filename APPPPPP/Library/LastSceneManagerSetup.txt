@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Hockey.unity
+- path: Assets/Scenes/HitSpritz.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

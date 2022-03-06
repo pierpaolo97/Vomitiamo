@@ -7,6 +7,8 @@ TagManager:
   - Lame
   - PlayerDownGoal
   - PlayerUpGoal
+  - Spritz
+  - Water
   layers:
   - Default
   - TransparentFX

@@ -14,4 +14,8 @@ public class sceneManager : MonoBehaviour
     {
         SceneManager.LoadScene("Bottle ninja");
     }
+    public void goToHitSpritz()
+    {
+        SceneManager.LoadScene("HitSpritz");
+    }
 }

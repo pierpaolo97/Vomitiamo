@@ -305,11 +305,14 @@
 "Assets/beer ninja/touchLocation.cs"
 "Assets/beer ninja/WaterDown.cs"
 "Assets/beer ninja/WaterUp.cs"
+"Assets/HitSpritz/Script_HitSpritz/Spawn.cs"
+"Assets/HitSpritz/Script_HitSpritz/touchLocationSpritz.cs"
+"Assets/HitSpritz/Script_HitSpritz/Touch_Spritz.cs"
 "Assets/Hockey/Script_Hockey/diskScript.cs"
 "Assets/Hockey/Script_Hockey/playerController.cs"
 "Assets/Hockey/Script_Hockey/PlayerMovement.cs"
-"Assets/Hockey/Script_Hockey/scoreScript.cs"
 "Assets/sceneManager.cs"
+"Assets/scriptPerTutti/scoreScript.cs"
 -langversion:9.0
 
 /deterministic

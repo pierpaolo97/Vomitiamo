@@ -6,8 +6,6 @@ public class playerController : MonoBehaviour
 {
     public List<PlayerMovement> Players = new List<PlayerMovement>();
 
-
-    
     void Update()
     {
         for(int i=0;i<Input.touchCount; i++)
