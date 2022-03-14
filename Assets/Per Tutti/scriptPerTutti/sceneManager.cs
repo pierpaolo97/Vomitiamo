@@ -30,4 +30,16 @@ public class sceneManager : MonoBehaviour
         SceneManager.LoadScene("VomitaPulisci");
     }
 
+    public void goToScappaDalleGuardie()
+    {
+        SceneManager.LoadScene("ScappaGuardie");
+    }
+
+    public void goToTorreBirra()
+    {
+        SceneManager.LoadScene("TorreBirre");
+    }
+
+
+
 }

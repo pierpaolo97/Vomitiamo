@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VomitaPulisci.unity
     guid: 81586c2a86ea545e7bf1c4cbcf55d429
+  - enabled: 1
+    path: Assets/Scenes/ScappaGuardie.unity
+    guid: 4f35fdc6bcfb0a943a447487678c813d
+  - enabled: 1
+    path: Assets/Scenes/TorreBirre.unity
+    guid: 07aaef98b5bf447d9881bc8141a53003
   m_configObjects: {}

@@ -10,7 +10,7 @@ public class muoviOggetto : MonoBehaviour
 
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -20,6 +20,7 @@ public class muoviOggetto : MonoBehaviour
         float yMovement = joystick.Vertical();
 
         transform.position += new Vector3(xMovement, yMovement, 0f) * speed * Time.deltaTime;
+
 
     }
 }

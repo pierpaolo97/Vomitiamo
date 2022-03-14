@@ -28,12 +28,16 @@ public class Timer : MonoBehaviour
             time -= 1 * Time.deltaTime;
             timeTxt.text = time.ToString("0");
         }
-        else
+        else if (time == 0)
         {
             PlayerUp.SetActive(false);
             PlayerDown.SetActive(false);
             Menu.SetActive(true);
             writeWinner();
+        }
+        if (BoxScriptDown.gameOverDown == true && BoxScriptUp.gameOverUp == true)
+        {
+            time = 0;
         }
     }
 

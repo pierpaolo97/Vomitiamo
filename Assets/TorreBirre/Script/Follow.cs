@@ -1,0 +1,20 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Follow : MonoBehaviour
+{
+    [HideInInspector]
+    public Vector3 targetPos;
+
+    private float smoothMove = 0.8f;
+
+    void Start()
+    {
+        targetPos = transform.position;
+    }
+    void Update()
+    {
+        transform.position = Vector3.Lerp(transform.position, targetPos, smoothMove * Time.deltaTime);
+    }
+}
